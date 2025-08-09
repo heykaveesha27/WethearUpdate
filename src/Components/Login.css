@@ -1,0 +1,31 @@
+body{
+    color: black;
+    font-family: sans-serif;
+}
+
+.hover-buton{
+    color: black;
+}
+
+.hover-buton:hover{
+    color: black;
+}
+
+.btn-clr{
+    background-color: rgb(13, 4, 134);
+    
+}
+
+.btn-clr:hover{
+    background-color: white;
+    color: rgb(13, 4, 134);
+    border:0.2px solid black;
+}
+
+.login-text{
+    text-align: center;
+}
+
+.register{
+    text-align:center;
+}
