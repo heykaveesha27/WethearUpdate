@@ -46,7 +46,7 @@ const Landing = () => {
         <p>
           This is a web project created to display weather conditions in a certain place input by the user.
         </p>
-        <button className="btnExplore">Explore More</button>
+       
       </section>
 
       
