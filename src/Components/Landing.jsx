@@ -59,7 +59,7 @@ const Landing = () => {
           </div>
           <div className="card">
             <h3>Feature 2</h3>
-            <p>User can type completely or select a certain place from the suggestions</p>
+            <p>User can type completely or select a certain place from the suggestions.</p>
           </div>
           <div className="card">
             <h3>Feature 3</h3>
